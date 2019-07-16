@@ -1,0 +1,12 @@
+.row{
+  margin-left:350px;
+  margin-top:50px;
+}
+
+table,td {
+
+  border-color: #101010;
+  border: 1px solid;
+  margin: 0px;
+    padding: 0px;
+}
